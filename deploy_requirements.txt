@@ -1,3 +1,4 @@
+django
 celery
 psycopg2
 gunicorn
