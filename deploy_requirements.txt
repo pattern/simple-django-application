@@ -1,3 +1,5 @@
-django-pagination
+celery
+psycopg2
+gunicorn
+python-memcached
 
--e hg+http://bitbucket.org/bkroeze/django-threaded-multihost/#egg=django-threaded-multihost
