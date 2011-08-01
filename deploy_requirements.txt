@@ -1,6 +1,4 @@
 django
-celery
-psycopg2
 gunicorn
 python-memcached
 
