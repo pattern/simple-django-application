@@ -1,4 +1,3 @@
-django
 gunicorn
 python-memcached
-
+http://www.djangoproject.com/download/1.3/tarball/
