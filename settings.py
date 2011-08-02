@@ -1,4 +1,4 @@
-# Django settings for django_scaffolding project.
+# Django settings for simple-django-application project.
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
@@ -100,7 +100,7 @@ MIDDLEWARE_CLASSES = (
     'django.contrib.messages.middleware.MessageMiddleware',
 )
 
-ROOT_URLCONF = 'django_scaffolding.urls'
+ROOT_URLCONF = 'simple-django-application.urls'
 
 TEMPLATE_DIRS = (
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
